@@ -1,6 +1,7 @@
 # OIBSIP_Task02-NewYork_AirBnb_Data_Analysis
 
-- **Data Cleaning Project: New York City Airbnb Listings**
+
+**Data Cleaning Project: New York City Airbnb Listings**
   - **Data Integrity:** Ensured the accuracy, consistency, and reliability of the dataset through comprehensive cleaning processes.
   - **Missing Data Handling:** Imputed missing values for key variables such as `reviews_per_month` and `last_review`, enhancing the dataset's completeness and reliability.
   - **Duplicate Removal:** Identified and eliminated duplicate records, maintaining data uniqueness and integrity.
